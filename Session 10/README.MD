@@ -1,4 +1,6 @@
-## Training a custom resnet architecture for CIFAR-10 with 90% validation accuracy in 24 epochs. In this repo, we train custom resnet convolutional neural network on CIFAR10 dataset. We use one cycle LR and cutouts.
+## Training a custom resnet architecture for CIFAR-10 with 90% validation accuracy in 24 epochs. 
+
+Training a custom resnet convolutional neural network on CIFAR10 dataset. Using one cycle LR and cutouts.
 
 ## Model:
 
