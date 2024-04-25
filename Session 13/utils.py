@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Utility Script containing functions to be used for training
-Author: Shilpaj Bhalerao
 """
 # Standard Library Imports
 import math
