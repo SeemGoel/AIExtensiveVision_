@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
 Function used for visualization of data and results
-Author: Shilpaj Bhalerao
-Date: Jul 23, 2023
 """
 # Third-Party Imports
 import torch
