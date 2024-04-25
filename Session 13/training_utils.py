@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
 Utilities for Model Training
-Author: Shilpaj Bhalerao
-Date: Jun 21, 2023
 """
-# Standard Library Imports
 
 # Third-Party Imports
 from tqdm import tqdm
