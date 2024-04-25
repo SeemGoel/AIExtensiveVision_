@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
 Module containing wrapper classes for PyTorch Datasets
-Author: Shilpaj Bhalerao
-Date: Jun 25, 2023
 """
 # Standard Library Imports
 from typing import Tuple
