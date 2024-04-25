@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
 Function used for visualization of data and results
-Author: Shilpaj Bhalerao
-Date: Jun 21, 2023
 """
 # Standard Library Imports
 import math
