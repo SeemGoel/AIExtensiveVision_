@@ -4,15 +4,17 @@ This repository provides the tools and resources for training and using a custom
 
 ## Project Goal:
 
-The primary aim of this project is to empower users to create and utilize a customized version of the GPT-2 model for text generation tasks. This involves training the model on a user-defined dataset and fine-tuning it for specific needs.
+The primary aim of this project is to empower users to create and utilize a customized version of the GPT-2 model for text generation tasks. This involves training the model on a user-defined dataset. However some assignment objectives:
+- On Colab (or your computer), train the 124M model on this such that your loss is less than 0.099999
+- Share the GitHub link where we can see the training logs and sample outputs
+- Share the huggingFace app where we can see it running (add a screenshot on GitHub where huggingface output is visible)
+
 
 #### Key Features:
 
 - Customizable GPT-2 Model: Implement the GPT-2 architecture from scratch or leverage existing implementations with tailored modifications.
-- Comprehensive Training: Access instructions and scripts to train the model effectively on your chosen dataset.
-- Streamlined Inference: Utilize the trained model for text generation with readily available code.
-- Evaluation Techniques: Employ metrics and methods to assess the quality of the generated text.
-- Detailed Documentation: Benefit from clear explanations and resources related to GPT-2 and its custom implementation.
+- Comprehensive Training: Final Loss 0.03453453257679939 and tokens/sec:  2843.95 
+- Dataset: Content of William Shakespeare plays(50304 tokens).
 - Hugging Face Integration: Seamlessly integrate with the Hugging Face Transformers library for access to pre-trained models and further customization options.
 
 
