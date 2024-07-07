@@ -1,5 +1,5 @@
 ### Assignment 21 
-## Custom GPT-2 Text Generation with Hugging Face Integration
+## Custom GPT-2 Text Generation with Hugging Face Integration(TheGiggleGrid)
 This repository provides the tools and resources for training and using a custom text generation model based on the GPT-2 architecture. It draws inspiration from Andrey Karpathy's video walkthrough of GPT-2 code.
 
 ## Project Goal:
