@@ -16,6 +16,8 @@ The primary aim of this project is to empower users to create and utilize a cust
 - Comprehensive Training: Final Loss 0.03453453257679939 and tokens/sec:  2843.95 
 - Dataset: Content of William Shakespeare plays(50304 tokens).
 - Hugging Face Integration: Seamlessly integrate with the Hugging Face Transformers library for access to pre-trained models and further customization options.
+Access it below
+https://huggingface.co/spaces/SeemG/TheGiggleGrid
 
 
 
