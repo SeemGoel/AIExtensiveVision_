@@ -19,7 +19,4 @@ The primary aim of this project is to empower users to create and utilize a cust
 Access it below
 https://huggingface.co/spaces/SeemG/TheGiggleGrid
 
-
-
-
-![image](https://github.com/SeemGoel/AIExtensiveVision_/assets/59606392/81fdf104-37be-4c83-bd78-c56ae949702a)
+![image](https://github.com/user-attachments/assets/ba864e95-6883-459d-9d05-643f174719fe)
