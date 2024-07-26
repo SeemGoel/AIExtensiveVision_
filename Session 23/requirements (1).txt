@@ -1,0 +1,4 @@
+timm
+transformers
+opencv-contrib-python
+albumentations
