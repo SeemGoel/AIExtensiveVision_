@@ -13,6 +13,9 @@ This project demonstrates how to use the CLIP (Contrastive Language–Image Pret
 ##### Huggingface demo:
 https://huggingface.co/spaces/SeemG/TextToImageFlickrSearch
 
+![image](https://github.com/user-attachments/assets/a2bba067-e4ae-48c9-8d13-23f2eb789774)
+
+
 
 ![image](https://github.com/user-attachments/assets/829d78a2-9f46-48d9-88f6-186361147017)
 
