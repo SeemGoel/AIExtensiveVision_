@@ -40,15 +40,11 @@ print("Going to invoke make_train_valid_dfs")
 model, image_embeddings = get_image_embeddings(valid_df, "best.pt")
 
 def generate_images(text, num_images=6):
-    
-    # # Generate image embeddings
-    # Generate images using a suitable image generation model (not included here)
-    # generated_images = clip_image_search(text)
     generated_images = clip_image_search(model, 
              image_embeddings,
-             query="desert food",
+             text,
              image_filenames=valid_df['image'].values,
-             n=9)
+             n=6)
 
     return generated_images
 
