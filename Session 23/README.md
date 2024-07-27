@@ -9,3 +9,10 @@ This project demonstrates how to use the CLIP (Contrastive Language–Image Pret
 - Image Corpus: Supports a directory of images to be used for retrieval.
 - Interactive Interface: Provides an easy-to-use Gradio interface for users to input text and view the corresponding images.
 - Text-to-Image Retrieval: Computes the similarity between text descriptions and images to find and display the best matches.
+
+##### Hugging face demo:
+https://huggingface.co/spaces/SeemG/TextToImageFlickrSearch
+
+
+![image](https://github.com/user-attachments/assets/e78afab8-745a-4b8e-9fb8-5d9409999aff)
+
