@@ -312,8 +312,6 @@ def find_matches(model, image_embeddings, query, image_filenames, n=9):
     for match, ax in zip(matches, axes.flatten()):
         image = cv2.imread(f"{CFG.image_path}/{match}")
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        # ax.imshow(image)
-        # ax.axis("off")
         results.append(image)
     return results
 
@@ -323,7 +321,7 @@ def clip_image_search(query_text):
   model, image_embeddings = get_image_embeddings(valid_df, "best.pt")
   return find_matches(model,
              image_embeddings,
-             query=query_text,
+             query_text,
              image_filenames=valid_df['image'].values,
              n=9)
 
